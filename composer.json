@@ -1,12 +1,13 @@
 {
-  "name": "based/momentum-lock",
-  "description": "",
+  "name": "seisigmasrl/momentum-lock",
+  "description": "A Laravel package that lets you handle Laravel authorizations on the frontend level.",
+  "version": "1.0.0",
   "type": "library",
   "license": "MIT",
   "authors": [
     {
-      "name": "Boris Lepikhin",
-      "email": "boris@lepikhin.com"
+      "name": "Ricardo Vargas",
+      "email": "rvargas@seisigma.com"
     }
   ],
   "autoload": {
