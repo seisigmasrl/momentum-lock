@@ -13,6 +13,7 @@ parameters:
     ignoreErrors:
         -
             message: '#Unable to resolve the template type#'
-            
-    checkMissingIterableValueType: false
-    checkGenericClassInNonGenericObjectType: false
+        -
+            identifier: missingType.iterableValue
+        -
+            identifier: missingType.generics
