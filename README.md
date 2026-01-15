@@ -1,4 +1,4 @@
-# Momentum Lock
+# Momentum Lock (Folked from lepekhinb/momentum-lock - Not updated and maybe abandoned)
 
 Momentum Lock is a Laravel package that lets you handle Laravel authorizations on the frontend level.
 
@@ -18,7 +18,7 @@ The package is only intended to work with [Laravel Data](https://github.com/spat
 Install the package into your Laravel app.
 
 ```bash
-composer require based/momentum-lock
+composer require seisigmasrl/momentum-lock
 ```
 
 ### Frontend
